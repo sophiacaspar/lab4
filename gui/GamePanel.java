@@ -21,7 +21,7 @@ public class GamePanel extends JPanel implements Observer{
 	
 	/**
 	 * The constructor
-	 * 
+	 * hihihihi
 	 * @param grid The grid that is to be displayed
 	 */
 	public GamePanel(GameGrid grid){
